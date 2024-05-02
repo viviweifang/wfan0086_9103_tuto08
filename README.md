@@ -9,10 +9,11 @@ In the movie "Spirited Away," the visual aesthetic utilizes abundant color gradi
 
 ![An image of movie "Spirited Away"](https://images4.alphacoders.com/127/1274022.jpg)Links to an external site.
 ![An image of the color](picture1.png)Links to an external site.
-![An image of movie "Spirited Away"](https://www.tourisme-creuse.com/en/all-of-creuse/agenda/major-events/hayao-miyazaki-invites-himself-to-the-cite-internationale-de-la-tapisserie-in-aubusson/)Links to an external site.
-![An image of the color](picture2.png)Links to an external site.
-
+![An image of movie "Spirited Away"](picture2.png)Links to an external site.
+picture
+![An image of the color](picture3.png)Links to an external site.
+picture
 Part 2: Coding Technique Exploration
 In the movie "Spirited Away," Color interpolation can be utilized to optimize the handling of animations or color gradient effects, altering the transition between colors to influence the outcome of achieving color targets. This facilitates the realization of more authentic and dynamic visual effects, vividly portraying the dynamic shifts in color and emotional impact within the film. In the Coding Technique Exploration, Color interpolation can be applied using JavaScript, combined with SVG elements to achieve dynamic color changes. By adjusting color interpolation, it helps in achieving vivid color transition effects, thereby enhancing the visual experience.
 
-![a link to a example code](picture3.png)Links to an external site.
+![a link to a example code](picture4.png)Links to an external site.
